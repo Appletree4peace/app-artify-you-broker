@@ -1,0 +1,31 @@
+---
+mail_convert_success:
+  sender: admin@artfyyou.com
+  #sender: admin@cloudelivery.com.au
+  subject:
+    en: "ArtfyYou.com: Your photo has been converted!"
+    zh: "ArtfyYou.com: 您的照片已经转换好啦！"
+  body:
+    en: |
+      Hey there,<br />
+      <br />
+      Congratulations! Your photo has been successfully converted!<br />
+      Please find them attached with the mail.<br />
+      <br />
+      Thanks for using ArtfyYou! We're releasing new styles, so stay tuned in :)<br />
+      <br />
+      Best regards,<br />
+      ArtfyYou Team<br />
+#      -------<br />
+#      https://artfyyou.com
+    zh: |
+      您好，<br />
+      <br />
+      恭喜，您的照片已经转换成功！<br />
+      请查看附件。<br />
+      <br />
+      感谢您使用 ArtfyYou！我们会发布新的风格样式，敬请关注。<br />
+      <br />
+      ArtfyYou<br />
+#      -------<br />
+#      https://artfyyou.com

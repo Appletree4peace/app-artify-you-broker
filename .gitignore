@@ -1,0 +1,5 @@
+.env
+kv_store.db
+uploads/*
+outputs/*
+gcp-svc-acc-key-gmail.json

@@ -1,0 +1,4 @@
+requests
+datasette
+Pillow
+PyYAML
